@@ -28,7 +28,7 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,h7 {
   font-family: 'Montserrat-Bold', sans-serif;
   font-weight: 700;
 }
@@ -36,8 +36,8 @@ h6 {
 .big-heading {
   font-family: 'Montserrat-Black', sans-serif;
   font-size: 3.5rem;
-  font-weight: 900;
-  line-height: 1.5;
+  font-weight: 900.4;
+  line-height: 1.52;
 }
 
 .section-heading {
@@ -151,7 +151,7 @@ h6 {
 }
 
 .price-text {
-  font-size: 3rem;
+  font-size: 3.01rem;
   line-height: 1.5;
 }
 
